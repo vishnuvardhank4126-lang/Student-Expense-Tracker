@@ -81,4 +81,4 @@ Semester V
 
 ## 11. GitHub Repository
 
-Repository link: To be added after publishing.
+https://github.com/vishnuvardhank4126-lang/Student-Expense-Tracker
