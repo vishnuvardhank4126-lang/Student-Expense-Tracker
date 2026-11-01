@@ -140,4 +140,4 @@ The Student Expense Tracker demonstrates how AI coding assistants and prompt eng
 
 ## 10. Repository Link
 
-GitHub Repository: [Paste your actual GitHub repository URL here]
+GitHub Repository: https://github.com/vishnuvardhank4126-lang/Student-Expense-Tracker
